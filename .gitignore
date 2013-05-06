@@ -2,4 +2,8 @@ node_modules
 .env.js
 .env.json
 .idea
+*.swp
 npm-debug.log
+*.log
+.vagrant/*
+logs/*
